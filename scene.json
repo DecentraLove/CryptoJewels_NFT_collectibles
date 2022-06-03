@@ -1,0 +1,45 @@
+{
+  "display": {
+    "title": "CryptoJewels NFT collectibles",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": "images/scene-thumbnail.png"
+  },
+  "owner": "",
+  "contact": {
+    "name": "JustLife#ec8b",
+    "email": "Seacarrotemail@gmail.com"
+  },
+  "main": "bin/game.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "61,-123"
+    ],
+    "base": "61,-123"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "source": {
+    "version": 1,
+    "origin": "builder",
+    "projectId": "115e9115-0fe2-4a92-949e-43ae324248f4",
+    "point": {
+      "x": 0,
+      "y": 0
+    },
+    "rotation": "east",
+    "layout": {
+      "rows": 1,
+      "cols": 1
+    }
+  }
+}
